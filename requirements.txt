@@ -2,3 +2,5 @@ jinja2
 weasyprint
 pandas
 PyPDF2
+openpyxl
+pdfkit
